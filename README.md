@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Welcome to assemblyxlang1111's GitHub!
 
-<!--
-**assemblyxlang1111/assemblyxlang1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Assembly Developer | Low-Level Enthusiast | Performance Hacker
 
-Here are some ideas to get you started:
+Hey there! I'm **assemblyxlang1111**, a passionate developer focused on **Assembly language**, system internals, and low-level programming. I love pushing hardware to its limits and squeezing every last cycle of performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech I Use
+- 🧠 **Assembly (x86, x64, NASM)**
+- ⚙️ Low-level system programming
+- 🪛 Reverse engineering & debugging (IDA Pro, Ghidra, x64dbg)
+- 💾 C/C++ for interfacing with Assembly
+- 🧪 Writing and optimizing shellcode
+
+### 🚀 Projects and Goals
+- Building a minimalist OS kernel in pure Assembly
+- Writing fast & compact routines for embedded systems
+- Creating educational examples of real-world Assembly use
+
+### 📚 Recent Work
+Check out some of my pinned repositories to see what I’ve been assembling (pun intended 😉). From bootloaders to handcrafted machine code — if it's low-level, I'm in!
+
+### 📫 Let's Connect
+- 💬 Open to collabs on systems programming & reverse engineering
+- 📨 Feel free to DM or open an issue to get in touch
+
+---
+
+> _"Talk is cheap. Show me the code."_ – Linus Torvalds
